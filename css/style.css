@@ -1,0 +1,71 @@
+.diva {
+    background-color: rgb(255, 255, 255);
+    width: 1900px;
+    height: 70px;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    flex-shrink: 0;
+
+
+}
+.divik {
+    background-color: rgb(255, 255, 255);
+    width: 300px;
+    height: 70px;
+
+}
+.divah {
+    background-color: rgb(255, 255, 255);
+    width: 1300px;
+    height: 40px;
+    margin-top: 23px;
+
+}
+.hre{
+    width: 300px;
+    height: 70px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    text-decoration: none;
+    color: #000;
+    margin-left: 550px;
+}
+.cnop {
+    width: 250px;
+    margin-top: 15px;
+    border-radius: 50px;
+
+}
+
+.loh {
+    border-radius: 50px;
+    width: 300px;
+    height: 37px;
+    border: 1px solid ;
+    
+}
+
+.god {
+    margin-top: 9px;
+    margin-left: 14px;
+    background:none;
+    border:none;
+    cursor: pointer;
+}
+
+.nono {
+    display: flex;
+    flex-direction: row;
+}
+
+.h1h {
+    margin-left: 960px;
+}
+
+.men {
+    width: 300px;
+    height: 70px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}

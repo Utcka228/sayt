@@ -1,0 +1,231 @@
+@media screen and (max-width:  1360px) {
+    .diva {
+        width: 1340px;
+    }
+
+    .h1h {
+        margin-left: 680px;
+    }
+
+}
+
+@media screen and (max-width:  1366px) {
+
+    .diva {
+        width: 1349px;
+    }
+
+    .divah {
+        width: 530px;
+    }
+
+    .h1h {
+        margin-left: 680px;
+    }
+
+    .hre {
+        margin-left: 200px;
+        
+    }
+
+}
+
+@media screen and (max-width:  2400px) {
+
+    .diva {
+        width: 2383px;
+    }
+
+    .hre {
+        margin-left: 891px;
+    }
+
+    .h1h {
+        margin-left: 1191px;
+    }
+
+}
+
+
+
+@media screen and (max-width:  1440px) {
+    .diva {
+        width: 1423px;
+    }
+
+    .hre {
+        margin-left: 320px;
+    }
+
+    .divah {
+        width: 800px;
+    }
+
+    .h1h {
+        margin-left: 720px;
+    }
+
+    .loh {
+        margin-left:0px ;
+    }
+
+
+}
+
+@media screen and (max-width:  1080px) {
+    .diva {
+        width: 1000px;
+    }
+
+    .hre {
+        margin-left: 420px;
+    }
+
+    .h1h {
+        margin-left: 490px;
+    }
+
+    .cnop {
+        margin-left: 0px;
+    }
+
+    .men {
+        width: 30px;
+                   height: 70px;
+                   margin-top: 0px;
+                   margin-bottom: 0px;
+
+    }
+
+    .divik {
+        width:30px ;
+    }
+}
+
+@media screen and (max-width:  720px) {
+    .diva {
+        width: 690px;
+    }
+
+    .hre {
+        margin-left: 240px;
+    }
+
+    .h1h {
+        margin-left: 320px;
+    }
+
+    .cnop {
+        margin-left: 0px;
+    }
+
+    .men {
+        width: 30px;
+                   height: 70px;
+                   margin-top: 0px;
+                   margin-bottom: 0px;
+
+    }
+
+    .divik {
+        width:30px ;
+    }
+}
+
+
+
+
+
+@media screen and (max-width:  540px) {
+    .diva {
+        width: 510px;
+    }
+
+    .hre {
+        margin-left: 160px;
+    }
+
+    .h1h {
+        margin-left: 220px;
+    }
+
+    .cnop {
+        margin-left: 0px;
+    }
+
+    .men {
+        width: 30px;
+                   height: 70px;
+                   margin-top: 0px;
+                   margin-bottom: 0px;
+
+    }
+
+    .divik {
+        width:30px ;
+    }
+}
+
+@media screen and (max-width:  480px) {
+    .diva {
+        width: 480px;
+    }
+
+    .hre {
+        margin-left: 150px;
+    }
+
+    .h1h {
+        margin-left: 190px;
+    }
+
+    .cnop {
+        margin-left: 0px;
+    }
+
+    .men {
+        width: 30px;
+                   height: 70px;
+                   margin-top: 0px;
+                   margin-bottom: 0px;
+
+    }
+
+    .divik {
+        width:30px ;
+    }
+
+    .divah {
+        width: 450px;
+    }
+}
+
+@media screen and (max-width:  320px) {
+    .diva {
+        width: 320px;
+    }
+
+    .hre {
+        margin-left: 60px;
+    }
+
+    .h1h {
+        margin-left: 120px;
+    }
+
+    .cnop {
+        margin-left: 0px;
+    }
+
+    .men {
+        width: 30px;
+                   height: 70px;
+                   margin-top: 0px;
+                   margin-bottom: 0px;
+
+    }
+
+    .divik {
+        width:30px ;
+    }
+}
